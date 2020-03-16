@@ -14,3 +14,8 @@ const buildHistogram = (magazine) => {
 
     return histogram
 }
+
+const canBuildNote = () => {
+
+    
+}
